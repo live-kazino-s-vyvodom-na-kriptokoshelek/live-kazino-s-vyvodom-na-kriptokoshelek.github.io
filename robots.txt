@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: live-kazino-s-vyvodom-na-kriptokoshelek.github.io
+Sitemap: https://live-kazino-s-vyvodom-na-kriptokoshelek.github.io/sitemap.xml
